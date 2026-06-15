@@ -1,1 +1,1 @@
-This repository was created to store photos from the holding's website.
+Этот репозиторий был создан для хранения изображений, используемых на сайте движения
